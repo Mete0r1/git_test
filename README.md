@@ -1,6 +1,6 @@
 # git_test
-First repository!
-Hello Odin - Usefulprogrammer.org
+First repository   
+Hello Odin! Usefulprogrammer.org 
 
 
 

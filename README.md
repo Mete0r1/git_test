@@ -1,6 +1,4 @@
 # git_test
 First repository
-Hello Odin!
-
-
+"Hello Odin!" - UsefulProject
 
